@@ -4,6 +4,7 @@ output:
   html_document:
     keep_md: true
 ---
+<<<<<<< HEAD
 This is the report for the Peer Assessment 1 of Reproducible Research course.
 
 ## Loading and preprocessing the data
@@ -173,3 +174,24 @@ print(g3)
 
 From the plot, we can see that the number of steps people taken during weekdays are more "concentrated" than that during weekends.  
 
+=======
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
